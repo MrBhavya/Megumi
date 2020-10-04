@@ -18,13 +18,13 @@ class Config(object):
     API_ID = "awoo"
     API_HASH = "awoo"
     TOKEN = "BOT_TOKEN"
-    OWNER_ID = 644290729  # If you dont know, run the bot and do /id in your private chat with it
-    OWNER_USERNAME = "unknown007"
+    OWNER_ID = 1154348892  # If you dont know, run the bot and do /id in your private chat with it
+    OWNER_USERNAME = "GreatRedDragonGodEmperor"
     #RECOMMENDED
 
     SQLALCHEMY_DATABASE_URI = 'something://somewhat:user@hosturl:port/databasename'  # needed for any database modules
-    MESSAGE_DUMP = -1001253661229  # needed to make sure 'save from' messages persist
-    GBAN_LOGS = -1001190806654
+    MESSAGE_DUMP = -1001401200148  # needed to make sure 'save from' messages persist
+    GBAN_LOGS = -1001401200148
     LOAD = []
     NO_LOAD = ['sed']
     WEBHOOK = False
@@ -54,7 +54,7 @@ class Config(object):
     AI_API_KEY = 'awoo'  #For chatbot, get one from https://coffeehouse.intellivoid.net/dashboard
     SPAMMERS = None
     LASTFM_API_KEY = ""
-    spamwatch_api = ""
+    spamwatch_api = "K0~e4cljRV18MO0tRiabIKqFNZDym9qOCnx8xJ3irtON4ghhv~xb1xTw4Cml6mjy"
 
 
 class Production(Config):
