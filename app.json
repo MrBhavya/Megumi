@@ -57,16 +57,16 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username",
-         "value": "Unknown"
+         "value": "Dragon Sama"
       },
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.)",
          "required": false,
-         "value": "660565862 459034222 189005567 346981140 367222759 644290729 637215887"
+         "value": ""
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
-         "value": "-1001300439833"
+         "value": ""
       },
       "CASH_API_KEY": {
          "description": "Required for currency converter",
@@ -88,12 +88,12 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "644290729 637215887"
+         "value": ""
       },
       "SUPPORT_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "644290729"
+         "value": ""
       },
       "TIGER_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
@@ -140,9 +140,11 @@
       "telegram",
       "weeb",
       "group",
-      "manager",
-      "Megumi"
+      "management",
+      "Yuigahama"
+      "Oregairu: My teen romantic comedy was wrong as I Expected"
+      "anime"
    ],
-   "name": "Megumi",
-   "repository": "https://github.com/dragonempire117/Megumi"
+   "name": "Yui Yuigahama",
+   "repository": "https://github.com/MrBhavya/Yuigahama"
 }
