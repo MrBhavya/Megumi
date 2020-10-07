@@ -5,7 +5,6 @@ from typing import List
 import wikipedia
 import random
 from telegram import ChatAction
-from gtts import gTTS
 import time
 from tswift import Song
 from telegram import ChatAction
